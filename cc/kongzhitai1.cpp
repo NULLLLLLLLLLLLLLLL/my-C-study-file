@@ -37,7 +37,7 @@ int main()
 					}
 				}
 			}
-			if (i != 0)
+			if (i)
 			{
 				printf("该范围内有%d个质数\n", i);
 			}
